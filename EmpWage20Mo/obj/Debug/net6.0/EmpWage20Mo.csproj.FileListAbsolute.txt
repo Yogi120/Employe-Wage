@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\EmpWage20Mo\EmpWage20Mo\bin\Debug\net6.0\EmpWage20Mo.exe
+C:\Users\Home\source\repos\EmpWage20Mo\EmpWage20Mo\bin\Debug\net6.0\EmpWage20Mo.deps.json
+C:\Users\Home\source\repos\EmpWage20Mo\EmpWage20Mo\bin\Debug\net6.0\EmpWage20Mo.runtimeconfig.json
+C:\Users\Home\source\repos\EmpWage20Mo\EmpWage20Mo\bin\Debug\net6.0\EmpWage20Mo.dll
+C:\Users\Home\source\repos\EmpWage20Mo\EmpWage20Mo\bin\Debug\net6.0\EmpWage20Mo.pdb
+C:\Users\Home\source\repos\EmpWage20Mo\EmpWage20Mo\obj\Debug\net6.0\EmpWage20Mo.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\EmpWage20Mo\EmpWage20Mo\obj\Debug\net6.0\EmpWage20Mo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\EmpWage20Mo\EmpWage20Mo\obj\Debug\net6.0\EmpWage20Mo.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\EmpWage20Mo\EmpWage20Mo\obj\Debug\net6.0\EmpWage20Mo.AssemblyInfo.cs
+C:\Users\Home\source\repos\EmpWage20Mo\EmpWage20Mo\obj\Debug\net6.0\EmpWage20Mo.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\EmpWage20Mo\EmpWage20Mo\obj\Debug\net6.0\EmpWage20Mo.dll
+C:\Users\Home\source\repos\EmpWage20Mo\EmpWage20Mo\obj\Debug\net6.0\refint\EmpWage20Mo.dll
+C:\Users\Home\source\repos\EmpWage20Mo\EmpWage20Mo\obj\Debug\net6.0\EmpWage20Mo.pdb
+C:\Users\Home\source\repos\EmpWage20Mo\EmpWage20Mo\obj\Debug\net6.0\EmpWage20Mo.genruntimeconfig.cache
+C:\Users\Home\source\repos\EmpWage20Mo\EmpWage20Mo\obj\Debug\net6.0\ref\EmpWage20Mo.dll
