@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\EmpPartTime\EmpPartTime\bin\Debug\net6.0\EmpPartTime.exe
+C:\Users\Home\source\repos\EmpPartTime\EmpPartTime\bin\Debug\net6.0\EmpPartTime.deps.json
+C:\Users\Home\source\repos\EmpPartTime\EmpPartTime\bin\Debug\net6.0\EmpPartTime.runtimeconfig.json
+C:\Users\Home\source\repos\EmpPartTime\EmpPartTime\bin\Debug\net6.0\EmpPartTime.dll
+C:\Users\Home\source\repos\EmpPartTime\EmpPartTime\bin\Debug\net6.0\EmpPartTime.pdb
+C:\Users\Home\source\repos\EmpPartTime\EmpPartTime\obj\Debug\net6.0\EmpPartTime.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\EmpPartTime\EmpPartTime\obj\Debug\net6.0\EmpPartTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\EmpPartTime\EmpPartTime\obj\Debug\net6.0\EmpPartTime.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\EmpPartTime\EmpPartTime\obj\Debug\net6.0\EmpPartTime.AssemblyInfo.cs
+C:\Users\Home\source\repos\EmpPartTime\EmpPartTime\obj\Debug\net6.0\EmpPartTime.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\EmpPartTime\EmpPartTime\obj\Debug\net6.0\EmpPartTime.dll
+C:\Users\Home\source\repos\EmpPartTime\EmpPartTime\obj\Debug\net6.0\refint\EmpPartTime.dll
+C:\Users\Home\source\repos\EmpPartTime\EmpPartTime\obj\Debug\net6.0\EmpPartTime.pdb
+C:\Users\Home\source\repos\EmpPartTime\EmpPartTime\obj\Debug\net6.0\EmpPartTime.genruntimeconfig.cache
+C:\Users\Home\source\repos\EmpPartTime\EmpPartTime\obj\Debug\net6.0\ref\EmpPartTime.dll
