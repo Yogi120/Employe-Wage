@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\EmpWageHrsReached\EmpWageHrsReached\bin\Debug\net6.0\EmpWageHrsReached.exe
+C:\Users\Home\source\repos\EmpWageHrsReached\EmpWageHrsReached\bin\Debug\net6.0\EmpWageHrsReached.deps.json
+C:\Users\Home\source\repos\EmpWageHrsReached\EmpWageHrsReached\bin\Debug\net6.0\EmpWageHrsReached.runtimeconfig.json
+C:\Users\Home\source\repos\EmpWageHrsReached\EmpWageHrsReached\bin\Debug\net6.0\EmpWageHrsReached.dll
+C:\Users\Home\source\repos\EmpWageHrsReached\EmpWageHrsReached\bin\Debug\net6.0\EmpWageHrsReached.pdb
+C:\Users\Home\source\repos\EmpWageHrsReached\EmpWageHrsReached\obj\Debug\net6.0\EmpWageHrsReached.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\EmpWageHrsReached\EmpWageHrsReached\obj\Debug\net6.0\EmpWageHrsReached.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\EmpWageHrsReached\EmpWageHrsReached\obj\Debug\net6.0\EmpWageHrsReached.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\EmpWageHrsReached\EmpWageHrsReached\obj\Debug\net6.0\EmpWageHrsReached.AssemblyInfo.cs
+C:\Users\Home\source\repos\EmpWageHrsReached\EmpWageHrsReached\obj\Debug\net6.0\EmpWageHrsReached.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\EmpWageHrsReached\EmpWageHrsReached\obj\Debug\net6.0\EmpWageHrsReached.dll
+C:\Users\Home\source\repos\EmpWageHrsReached\EmpWageHrsReached\obj\Debug\net6.0\refint\EmpWageHrsReached.dll
+C:\Users\Home\source\repos\EmpWageHrsReached\EmpWageHrsReached\obj\Debug\net6.0\EmpWageHrsReached.pdb
+C:\Users\Home\source\repos\EmpWageHrsReached\EmpWageHrsReached\obj\Debug\net6.0\EmpWageHrsReached.genruntimeconfig.cache
+C:\Users\Home\source\repos\EmpWageHrsReached\EmpWageHrsReached\obj\Debug\net6.0\ref\EmpWageHrsReached.dll
