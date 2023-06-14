@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\EmpWageSwitch\EmpWageSwitch\bin\Debug\net6.0\EmpWageSwitch.exe
+C:\Users\Home\source\repos\EmpWageSwitch\EmpWageSwitch\bin\Debug\net6.0\EmpWageSwitch.deps.json
+C:\Users\Home\source\repos\EmpWageSwitch\EmpWageSwitch\bin\Debug\net6.0\EmpWageSwitch.runtimeconfig.json
+C:\Users\Home\source\repos\EmpWageSwitch\EmpWageSwitch\bin\Debug\net6.0\EmpWageSwitch.dll
+C:\Users\Home\source\repos\EmpWageSwitch\EmpWageSwitch\bin\Debug\net6.0\EmpWageSwitch.pdb
+C:\Users\Home\source\repos\EmpWageSwitch\EmpWageSwitch\obj\Debug\net6.0\EmpWageSwitch.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\EmpWageSwitch\EmpWageSwitch\obj\Debug\net6.0\EmpWageSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\EmpWageSwitch\EmpWageSwitch\obj\Debug\net6.0\EmpWageSwitch.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\EmpWageSwitch\EmpWageSwitch\obj\Debug\net6.0\EmpWageSwitch.AssemblyInfo.cs
+C:\Users\Home\source\repos\EmpWageSwitch\EmpWageSwitch\obj\Debug\net6.0\EmpWageSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\EmpWageSwitch\EmpWageSwitch\obj\Debug\net6.0\EmpWageSwitch.dll
+C:\Users\Home\source\repos\EmpWageSwitch\EmpWageSwitch\obj\Debug\net6.0\refint\EmpWageSwitch.dll
+C:\Users\Home\source\repos\EmpWageSwitch\EmpWageSwitch\obj\Debug\net6.0\EmpWageSwitch.pdb
+C:\Users\Home\source\repos\EmpWageSwitch\EmpWageSwitch\obj\Debug\net6.0\EmpWageSwitch.genruntimeconfig.cache
+C:\Users\Home\source\repos\EmpWageSwitch\EmpWageSwitch\obj\Debug\net6.0\ref\EmpWageSwitch.dll
